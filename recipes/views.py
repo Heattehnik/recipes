@@ -1,4 +1,4 @@
-from django.db import IntegrityError
+from django.db import transaction
 from django.shortcuts import get_object_or_404, render
 from django.http import HttpResponse
 from .models import Recipe, Product, RecipeProduct
@@ -22,6 +22,7 @@ def add_product_to_recipe(request):
     return HttpResponse("Product added to recipe successfully.")
 
 
+@transaction.atomic
 def cook_recipe(request):
     recipe_id = request.GET.get('recipe_id')
     recipe = get_object_or_404(Recipe, id=recipe_id)
