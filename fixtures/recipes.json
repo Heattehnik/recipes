@@ -1,0 +1,1211 @@
+[
+  {
+    "model": "recipes.product",
+    "pk": 1,
+    "fields": {
+      "name": "Крабовые палочки",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 2,
+    "fields": {
+      "name": "Майонез",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 3,
+    "fields": {
+      "name": "Чеснок",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 4,
+    "fields": {
+      "name": "Морская капуста",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 5,
+    "fields": {
+      "name": "Консервированная кукуруза",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 6,
+    "fields": {
+      "name": "Картофель",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 7,
+    "fields": {
+      "name": "Помидоры",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 8,
+    "fields": {
+      "name": "Огурец",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 9,
+    "fields": {
+      "name": "Плавленый сыр",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 10,
+    "fields": {
+      "name": "Куриная грудка",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 11,
+    "fields": {
+      "name": "Апельсин",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 12,
+    "fields": {
+      "name": "Твёрдый сыр",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 13,
+    "fields": {
+      "name": "Грецкий орех",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 14,
+    "fields": {
+      "name": "Чернослив",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 15,
+    "fields": {
+      "name": "Соль",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 16,
+    "fields": {
+      "name": "Йогурт",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 17,
+    "fields": {
+      "name": "Яйцо",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 18,
+    "fields": {
+      "name": "Морковь",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 19,
+    "fields": {
+      "name": "Лук",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 20,
+    "fields": {
+      "name": "Рыбные консервы",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 21,
+    "fields": {
+      "name": "Копченая колбаса",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 22,
+    "fields": {
+      "name": "Корейская морковь",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 23,
+    "fields": {
+      "name": "Перец молотый",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 24,
+    "fields": {
+      "name": "Укроп",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 25,
+    "fields": {
+      "name": "Красный лук",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 26,
+    "fields": {
+      "name": "Яблочный уксус",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 27,
+    "fields": {
+      "name": "Вода",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 28,
+    "fields": {
+      "name": "Говядина",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 29,
+    "fields": {
+      "name": "Болгарский перец",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 30,
+    "fields": {
+      "name": "Острый перец",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 31,
+    "fields": {
+      "name": "Кинза",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 32,
+    "fields": {
+      "name": "Фасоль",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 33,
+    "fields": {
+      "name": "Хмели-сунели",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 34,
+    "fields": {
+      "name": "Оливковое масло",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 35,
+    "fields": {
+      "name": "Зеленый лук",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 36,
+    "fields": {
+      "name": "Авокадо",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 37,
+    "fields": {
+      "name": "Сельдерей",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 38,
+    "fields": {
+      "name": "Тунец",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 39,
+    "fields": {
+      "name": "Лимонный сок",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 40,
+    "fields": {
+      "name": "Копченая курица",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 41,
+    "fields": {
+      "name": "Консервированный ананас",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 42,
+    "fields": {
+      "name": "Сметана",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 43,
+    "fields": {
+      "name": "Соленый огурец",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 44,
+    "fields": {
+      "name": "Консервированный горошек",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 45,
+    "fields": {
+      "name": "Сахар",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 46,
+    "fields": {
+      "name": "Уксус",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 47,
+    "fields": {
+      "name": "Сёмга",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 48,
+    "fields": {
+      "name": "Горчица",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 49,
+    "fields": {
+      "name": "Мёд",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 50,
+    "fields": {
+      "name": "Зелень",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 51,
+    "fields": {
+      "name": "Ветчина",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 52,
+    "fields": {
+      "name": "Свёкла",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 53,
+    "fields": {
+      "name": "Маринованный лук",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 54,
+    "fields": {
+      "name": "Гранат",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 55,
+    "fields": {
+      "name": "Соевый соус",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 56,
+    "fields": {
+      "name": "Апельсиновый сок",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 57,
+    "fields": {
+      "name": "Бальзамический уксус",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 58,
+    "fields": {
+      "name": "Куриная печень",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 59,
+    "fields": {
+      "name": "Салат",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 60,
+    "fields": {
+      "name": "Черные кунжутные семечки",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 61,
+    "fields": {
+      "name": "Соленая сельдь",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 62,
+    "fields": {
+      "name": "Баклажан",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 63,
+    "fields": {
+      "name": "Растительное масло",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 64,
+    "fields": {
+      "name": "Приправа для корейской моркови",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 65,
+    "fields": {
+      "name": "Базилик",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 66,
+    "fields": {
+      "name": "Кунжут",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 67,
+    "fields": {
+      "name": "Свиной язык",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 68,
+    "fields": {
+      "name": "Оливки",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 69,
+    "fields": {
+      "name": "Рис",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 70,
+    "fields": {
+      "name": "Творожный сыр",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.product",
+    "pk": 71,
+    "fields": {
+      "name": "Лимон",
+      "times_used": 0
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 1,
+    "fields": {
+      "name": "Салат с грецкими орехами, курицей, черносливом и апельсинами."
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 2,
+    "fields": {
+      "name": "Классический салат \"Мимоза\" с картофелем и морковью"
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 3,
+    "fields": {
+      "name": "Салат с копченой колбасой, корейской морковью и кукурузой"
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 4,
+    "fields": {
+      "name": "Салат с крабовыми палочками, кукурузой, яйцами."
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 5,
+    "fields": {
+      "name": "Салат с фасолью, говядиной, перцем и грецкими орехами"
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 6,
+    "fields": {
+      "name": "Салат с рыбными консервами, огурцом, яйцом и зелёным луком"
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 7,
+    "fields": {
+      "name": "Салат с тунцом, авокадо, огурцом и сельдереем"
+    }
+  },
+  {
+    "model": "recipes.recipe",
+    "pk": 8,
+    "fields": {
+      "name": "Салат с копченной курицей, ананасом и грецкими орехами"
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 1,
+    "fields": {
+      "recipe": 1,
+      "product": 10,
+      "weight_in_grams": 200
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 2,
+    "fields": {
+      "recipe": 1,
+      "product": 11,
+      "weight_in_grams": 600
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 3,
+    "fields": {
+      "recipe": 1,
+      "product": 12,
+      "weight_in_grams": 100
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 4,
+    "fields": {
+      "recipe": 1,
+      "product": 13,
+      "weight_in_grams": 200
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 5,
+    "fields": {
+      "recipe": 1,
+      "product": 14,
+      "weight_in_grams": 200
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 6,
+    "fields": {
+      "recipe": 1,
+      "product": 15,
+      "weight_in_grams": 6
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 7,
+    "fields": {
+      "recipe": 1,
+      "product": 16,
+      "weight_in_grams": 100
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 8,
+    "fields": {
+      "recipe": 2,
+      "product": 17,
+      "weight_in_grams": 140
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 9,
+    "fields": {
+      "recipe": 2,
+      "product": 6,
+      "weight_in_grams": 400
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 10,
+    "fields": {
+      "recipe": 2,
+      "product": 18,
+      "weight_in_grams": 70
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 11,
+    "fields": {
+      "recipe": 2,
+      "product": 19,
+      "weight_in_grams": 100
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 12,
+    "fields": {
+      "recipe": 2,
+      "product": 20,
+      "weight_in_grams": 200
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 13,
+    "fields": {
+      "recipe": 2,
+      "product": 2,
+      "weight_in_grams": 200
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 14,
+    "fields": {
+      "recipe": 3,
+      "product": 21,
+      "weight_in_grams": 150
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 15,
+    "fields": {
+      "recipe": 3,
+      "product": 22,
+      "weight_in_grams": 100
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 16,
+    "fields": {
+      "recipe": 3,
+      "product": 5,
+      "weight_in_grams": 100
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 17,
+    "fields": {
+      "recipe": 3,
+      "product": 15,
+      "weight_in_grams": 5
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 18,
+    "fields": {
+      "recipe": 3,
+      "product": 23,
+      "weight_in_grams": 2
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 19,
+    "fields": {
+      "recipe": 3,
+      "product": 2,
+      "weight_in_grams": 40
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 20,
+    "fields": {
+      "recipe": 3,
+      "product": 3,
+      "weight_in_grams": 6
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 21,
+    "fields": {
+      "recipe": 4,
+      "product": 17,
+      "weight_in_grams": 140
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 22,
+    "fields": {
+      "recipe": 4,
+      "product": 1,
+      "weight_in_grams": 250
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 23,
+    "fields": {
+      "recipe": 4,
+      "product": 8,
+      "weight_in_grams": 110
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 24,
+    "fields": {
+      "recipe": 4,
+      "product": 5,
+      "weight_in_grams": 250
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 25,
+    "fields": {
+      "recipe": 4,
+      "product": 15,
+      "weight_in_grams": 3
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 26,
+    "fields": {
+      "recipe": 4,
+      "product": 24,
+      "weight_in_grams": 20
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 27,
+    "fields": {
+      "recipe": 4,
+      "product": 2,
+      "weight_in_grams": 80
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 28,
+    "fields": {
+      "recipe": 5,
+      "product": 25,
+      "weight_in_grams": 100
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 29,
+    "fields": {
+      "recipe": 5,
+      "product": 26,
+      "weight_in_grams": 40
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 30,
+    "fields": {
+      "recipe": 5,
+      "product": 27,
+      "weight_in_grams": 100
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 31,
+    "fields": {
+      "recipe": 5,
+      "product": 28,
+      "weight_in_grams": 250
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 32,
+    "fields": {
+      "recipe": 5,
+      "product": 29,
+      "weight_in_grams": 110
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 33,
+    "fields": {
+      "recipe": 5,
+      "product": 30,
+      "weight_in_grams": 20
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 34,
+    "fields": {
+      "recipe": 5,
+      "product": 13,
+      "weight_in_grams": 50
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 35,
+    "fields": {
+      "recipe": 5,
+      "product": 31,
+      "weight_in_grams": 25
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 36,
+    "fields": {
+      "recipe": 5,
+      "product": 32,
+      "weight_in_grams": 200
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 37,
+    "fields": {
+      "recipe": 5,
+      "product": 3,
+      "weight_in_grams": 5
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 38,
+    "fields": {
+      "recipe": 5,
+      "product": 15,
+      "weight_in_grams": 5
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 39,
+    "fields": {
+      "recipe": 5,
+      "product": 23,
+      "weight_in_grams": 2
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 40,
+    "fields": {
+      "recipe": 5,
+      "product": 33,
+      "weight_in_grams": 5
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 41,
+    "fields": {
+      "recipe": 5,
+      "product": 34,
+      "weight_in_grams": 40
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 42,
+    "fields": {
+      "recipe": 6,
+      "product": 17,
+      "weight_in_grams": 105
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 43,
+    "fields": {
+      "recipe": 6,
+      "product": 8,
+      "weight_in_grams": 220
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 44,
+    "fields": {
+      "recipe": 6,
+      "product": 35,
+      "weight_in_grams": 70
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 45,
+    "fields": {
+      "recipe": 6,
+      "product": 20,
+      "weight_in_grams": 200
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 46,
+    "fields": {
+      "recipe": 6,
+      "product": 15,
+      "weight_in_grams": 3
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 47,
+    "fields": {
+      "recipe": 6,
+      "product": 2,
+      "weight_in_grams": 40
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 48,
+    "fields": {
+      "recipe": 7,
+      "product": 36,
+      "weight_in_grams": 250
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 49,
+    "fields": {
+      "recipe": 7,
+      "product": 8,
+      "weight_in_grams": 110
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 50,
+    "fields": {
+      "recipe": 7,
+      "product": 37,
+      "weight_in_grams": 50
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 51,
+    "fields": {
+      "recipe": 7,
+      "product": 25,
+      "weight_in_grams": 30
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 52,
+    "fields": {
+      "recipe": 7,
+      "product": 38,
+      "weight_in_grams": 100
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 53,
+    "fields": {
+      "recipe": 7,
+      "product": 31,
+      "weight_in_grams": 20
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 54,
+    "fields": {
+      "recipe": 7,
+      "product": 34,
+      "weight_in_grams": 20
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 55,
+    "fields": {
+      "recipe": 7,
+      "product": 39,
+      "weight_in_grams": 20
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 56,
+    "fields": {
+      "recipe": 7,
+      "product": 15,
+      "weight_in_grams": 3
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 57,
+    "fields": {
+      "recipe": 7,
+      "product": 23,
+      "weight_in_grams": 2
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 58,
+    "fields": {
+      "recipe": 8,
+      "product": 40,
+      "weight_in_grams": 250
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 59,
+    "fields": {
+      "recipe": 8,
+      "product": 41,
+      "weight_in_grams": 300
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 60,
+    "fields": {
+      "recipe": 8,
+      "product": 12,
+      "weight_in_grams": 150
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 61,
+    "fields": {
+      "recipe": 8,
+      "product": 13,
+      "weight_in_grams": 100
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 62,
+    "fields": {
+      "recipe": 8,
+      "product": 3,
+      "weight_in_grams": 8
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 63,
+    "fields": {
+      "recipe": 8,
+      "product": 42,
+      "weight_in_grams": 40
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 64,
+    "fields": {
+      "recipe": 8,
+      "product": 2,
+      "weight_in_grams": 40
+    }
+  },
+  {
+    "model": "recipes.recipeproduct",
+    "pk": 65,
+    "fields": {
+      "recipe": 8,
+      "product": 15,
+      "weight_in_grams": 5
+    }
+  }
+]
